@@ -1,0 +1,14 @@
+package ch2;
+
+public class Main2_9 {
+
+	public static void main(String[] args) {
+		// TODO 自動生成されたメソッド・スタブ
+		//文字列の連結
+		String msg = "私の年齢は" + 23;
+		
+		System.out.println(msg);
+
+	}
+
+}
