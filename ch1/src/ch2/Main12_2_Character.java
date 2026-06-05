@@ -6,7 +6,7 @@ public abstract class Main12_2_Character {
 	public void run() {
 		
 	}
-	public abstract void attack(Main_8_5 m);
+	public abstract void attack(Main12_5_Monster m);
 	
 	
 
